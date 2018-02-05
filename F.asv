@@ -1,0 +1,5 @@
+function  F(img,seuil_bas,seuil_haut)
+for i=1:256
+    for j=1:256
+        if 
+end
