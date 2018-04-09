@@ -1,3 +1,4 @@
+#function lut 
 function lut = LUT(seuil_bas,seuil_haut)
 lut=zeros(256,1);
 for i=1:256
