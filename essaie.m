@@ -1,3 +1,4 @@
+####
 img=imread('femme.pgm');
      lut=LUT(100,150);
      
